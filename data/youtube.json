@@ -2,7 +2,7 @@
   "source": "YouTube Data API v3",
   "handle": "@JLXGAMINGYT",
   "channelUrl": "https://www.youtube.com/@JLXGAMINGYT",
-  "updatedAt": "2026-11-27T03:41:23.278Z",
+  "updatedAt": "2026-11-27T16:44:50.538Z",
   "status": "missing_key",
   "message": "Add YOUTUBE_API_KEY under repository Settings → Secrets and variables → Actions."
 }
